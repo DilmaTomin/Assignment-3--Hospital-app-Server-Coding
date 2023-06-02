@@ -1,20 +1,5 @@
 [
   {
-    "name": "Hospital A",
-    "patientCount": 100,
-    "location": "City A"
-  },
-  {
-    "name": "Hospital B",
-    "patientCount": 75,
-    "location": "City B"
-  },
-  {
-    "name": "Hospital C",
-    "patientCount": 50,
-    "location": "City C"
-  },
-  {
     "name": "New Hospital",
     "patientCount": 50,
     "location": "City D"
