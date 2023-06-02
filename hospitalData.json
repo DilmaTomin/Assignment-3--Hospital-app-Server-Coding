@@ -23,5 +23,10 @@
     "name": "Lissie",
     "patientCount": 150,
     "location": "Thrissur"
+  },
+  {
+    "name": "Apollo",
+    "patientCount": 250,
+    "location": "Koratty"
   }
 ]
